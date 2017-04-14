@@ -16,6 +16,7 @@
 	padding: 10px;
 	border: 1px solid #ddd;
 	border-radius: 4px;
+	min-height: 190px;
 }
 
 .title {
@@ -24,6 +25,7 @@
 
 .description {
 	font-size: 14px;
+
 }
 
 .list-group-item {
@@ -32,4 +34,5 @@
 
 .list-group-item:hover {
 	background-color: #eee;
+
 }
